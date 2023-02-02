@@ -147,9 +147,6 @@ button {
 .hero {
   background-color: var(--color-navy-blue);
   padding: 188px 473px;
-}
-
-.herosection {
   text-align: center;
 }
 
@@ -161,9 +158,9 @@ button {
   letter-spacing: 0.02em;
   color: var(--color-white);
   width: 500px;
-  margin-right: auto;
   margin-left: auto;
-  margin-bottom: 58px;
+  margin-right: auto;
+  margin-bottom: 48px;
 }
 
 .btn-hero {
@@ -388,6 +385,9 @@ button {
 .footer {
   background-color: var(--color-navy-blue);
   padding: 100px 0px;
+}
+.logo-footer .footer-studio-logo {
+  margin-bottom: 16px;
 }
 
 .logo-footer {
